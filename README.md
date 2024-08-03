@@ -31,4 +31,4 @@
 <pre>git commit -m "Comment"</pre>
 
 <p>Add edites project</p>
-<p>git push</p>
+<pre>git push</pre>
